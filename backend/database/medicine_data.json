@@ -1,0 +1,69 @@
+{
+    "paracetamol": {
+        "category": "Fever",
+        "uses": [
+            "Fever",
+            "Body pain",
+            "Headache"
+        ],
+        "precautions": [
+            "Avoid overdose",
+            "Consult doctor if liver issues"
+        ],
+        "side_effects": [
+            "Nausea",
+            "Rash"
+        ]
+    },
+    "ibuprofen": {
+        "category": "Pain",
+        "uses": [
+            "Pain relief",
+            "Inflammation"
+        ],
+        "precautions": [
+            "Take after food"
+        ],
+        "side_effects": [
+            "Stomach irritation"
+        ]
+    },
+    "cetirizine": {
+        "category": "Allergy",
+        "uses": [
+            "Allergy",
+            "Sneezing"
+        ],
+        "precautions": [
+            "May cause drowsiness"
+        ],
+        "side_effects": [
+            "Sleepiness"
+        ]
+    },
+    "omeprazole": {
+        "category": "Acidity",
+        "uses": [
+            "Acidity",
+            "GERD"
+        ],
+        "precautions": [
+            "Take before food"
+        ],
+        "side_effects": [
+            "Headache"
+        ]
+    },
+    "amoxicillin": {
+        "category": "Antibiotic",
+        "uses": [
+            "Bacterial infection"
+        ],
+        "precautions": [
+            "Complete full course"
+        ],
+        "side_effects": [
+            "Nausea"
+        ]
+    }
+}
