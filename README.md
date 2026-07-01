@@ -1,5 +1,6 @@
 AI POWERED RESUME RANKER PROJECT PEPOSITORY LINK -
 https://github.com/kpallaviai24-AIML/ai-resume-analyzer.git
 
-SMART CITY TRAFFIC PREDICTION AND MANAGEMENT SYSTEM
+SMART CITY TRAFFIC PREDICTION AND MANAGEMENT SYSTEM - 
+https://github.com/kpallaviai24-AIML/Traffic_Management.git
 
